@@ -1,3 +1,9 @@
 body {
   background-color: aqua;
 }
+
+table {
+  border: 2px solid green;
+  padding: 2px;
+  border-radius: 10px;
+}
